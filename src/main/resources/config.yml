@@ -1,0 +1,24 @@
+# Mundos que o plugin não irá funcionar.
+Blacklisted worlds:
+  - 'nenhum'
+# Mensagem que irá mandar ao quebrar um bloco
+#######
+# Quando não tiver bônus
+Actionbar: '&aVocê quebrou &71x {bloco} &ae ganhou &7{money}&a coins.'
+# Quando tiver bônus
+Actionbar bonus: '&aVocê quebrou &71x {bloco} &ae ganhou &7{money}&a coins. &7Bônus: &8{bonus}%&f ({grupo}&f)&a.'
+# Formatos de money e quantia
+Formats:
+  - ''
+  - ''
+  - 'K'
+  - 'M'
+  - 'B'
+  - 'T'
+  - 'Q'
+  - 'QQ'
+  - 'S'
+  - 'SS'
+  - 'O'
+  - 'N'
+  - 'D'

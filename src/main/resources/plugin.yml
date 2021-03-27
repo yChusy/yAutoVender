@@ -1,0 +1,6 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: com.ystoreplugins.yautovender.Main
+depend: [ Vault ]
+authors: [ yChusy ]
+website: https://ystoreplugins.com.br

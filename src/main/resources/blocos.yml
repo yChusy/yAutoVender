@@ -1,0 +1,17 @@
+Blocos:
+  pedra:
+    ID: 1
+    Data: 0
+    Display: 'Pedra'
+    Fortune: false # Ativar a multiplicação de acordo a fortuna do item.
+    Money: 50.0 # Money que irá dar ao jogador
+    Xp: 1.0 # EXP (vanilla) que irá dar ao jogador
+    Mcmmo: 1.0 # EXP (mcMMO) que irá dar ao jogador (skill: MINING)
+  lapisore:
+    ID: 21
+    Data: 0
+    Display: 'Lápis Ore'
+    Fortune: true # Ativar a multiplicação de acordo a fortuna do item.
+    Money: 100.0 # Money que irá dar ao jogador
+    Xp: 10.0 # EXP (vanilla) que irá dar ao jogador
+    Mcmmo: 2.0 # EXP (mcMMO) que irá dar ao jogador (skill: MINING)

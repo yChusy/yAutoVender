@@ -1,0 +1,5 @@
+Bonus:
+  membros:
+    Permissao: 'yautovenderminerio.membro'
+    Display: '&7[Membro]'
+    Bonus: 10.0 # em % do valor total
